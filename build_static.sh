@@ -1,0 +1,1 @@
+JEKYLL_ENV=product bundle exec jekyll build --destination /Users/jamiebowman/Documents/web-dev/consonance/deploy/side-project-summer/ --baseurl https://jamie-reece.github.io/side-project-summer
